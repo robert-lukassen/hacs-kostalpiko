@@ -1,0 +1,18 @@
+{
+  "config": {
+    "title": "Kostal",
+    "step": {
+      "user": {
+        "data": {
+          "host": "IP-Adresse Wechselrichter",
+        }
+      }
+    },
+    "error": {
+      "host_exists": "Der Host wurde bereits konfiguriert"
+    },
+    "abort": {
+      "host_exists": "Der Host wurde bereits konfiguriert"
+    }
+  }
+}

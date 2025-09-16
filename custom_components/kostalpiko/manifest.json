@@ -1,0 +1,13 @@
+{
+  "domain": "kostalpiko",
+  "name": "Kostal Piko",
+  "version": "1.0.0",
+  "config_flow": true,
+  "documentation": "https://github.com/robert-lukassen/kostalpiko-hacs",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": ["@robert-lukassen"]
+}
